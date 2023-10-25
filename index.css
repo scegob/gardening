@@ -1,0 +1,12 @@
+.navigation ul{
+    list-style-type: none;
+    margin: 0;
+}
+
+.navigation {
+    background-color: green;
+}
+
+.navigation a {
+    color: white;
+}
